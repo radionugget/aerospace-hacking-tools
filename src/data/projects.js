@@ -81,7 +81,7 @@ const projects = [
     image: "iss-docking-sim.jpeg"
   },
   {
-    name: "SatFlare",
+    name: "SatDump",
     dateAdded: "6/21/2023",
     tags: ["Radio", "Satellites"],
     description: "A generic satellite data processing software.",
@@ -223,6 +223,14 @@ const projects = [
     description: "TinyGS is an open network of Ground Stations distributed around the world to receive and operate LoRa satellites, weather probes and other flying objects, using cheap and versatile modules.",
     website: "https://tinygs.com/",
     image: "tinygs.png"
+  },
+  {
+    name: "Satmap",
+    dateAdded: "06/30/2024",
+    tags: ["Satellites", "OSINT"],
+    description: "Satmap is a web-based tool for visualizing interactives satellites positions on a map",
+    website: "https://satmap.space",
+    image: "satmap.png"
   },
 ];
 
